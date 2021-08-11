@@ -1,17 +1,16 @@
-# Deep Neural Network-based Numerical Material Test
+# Bayesian Texture Optimization using Deep Neural Network-based Numerical Material Test
 -----
 
 ## Description
 tensorflowとkerasで実装されたアルミニウム合金板材のr値を推定するdeep neural networkとBayesian optimizationを用いたr値面内異方性を低減するための集合組織最適化プログラム
-最適化結果を可視化するプログラムもあるよ
+最適化結果を可視化するプログラムも掲載する. 
 
 ## Publications
-1. A. Yamanaka, R. Kamijyo, K. Koenuma, I. Watanabe and T. Kuwabara, "Deep neural network approach to estimate biaxial stress-strain curves of sheet metals", Materials & Design, Vol. 195 (2020), 108970. <a href="https://doi.org/10.1016/j.matdes.2020.108970">https://doi.org/10.1016/j.matdes.2020.108970</a>
+1. R. Kamijyo, A. Yamanaka, and A. Ishii, Bayesian Texture Optimization using deep neural network-based numerical material test, submitted. 
 
-2. K. Koenuma, A. Yamanaka, I. Watanabe and T. Kuwabara, "Estimation of texture-dependent stress－strain curve and r-value of aluminum alloy sheet using deep learning", Materials Transactions, Vol. 61 (2020), pp. 2276-2283 <a href="https://doi.org/10.2320/matertrans.P-M2020853">https://doi.org/10.2320/matertrans.P-M2020853</a>. 
+2. A. Yamanaka, R. Kamijyo, K. Koenuma, I. Watanabe and T. Kuwabara, "Deep neural network approach to estimate biaxial stress-strain curves of sheet metals", Materials & Design, Vol. 195 (2020), 108970. <a href="https://doi.org/10.1016/j.matdes.2020.108970">https://doi.org/10.1016/j.matdes.2020.108970</a>
 
-3. K. Koenuma, A. Yamanaka, I. Watanabe and T. Kuwabara, "Estimation of texture-dependent stress－strain curve and r-value of aluminum alloy sheet using deep learning", Journal of Japan Society for Technology of Plasticity, Vol. 61 No. 709 (2020), pp. 48-55. (in Japanese) <a href="https://doi.org/10.9773/sosei.61.48">doi.org/10.9773/sosei.61.48</a>
-
+3. K. Koenuma, A. Yamanaka, I. Watanabe and T. Kuwabara, "Estimation of texture-dependent stress－strain curve and r-value of aluminum alloy sheet using deep learning", Materials Transactions, Vol. 61 (2020), pp. 2276-2283 <a href="https://doi.org/10.2320/matertrans.P-M2020853">https://doi.org/10.2320/matertrans.P-M2020853</a>. 
 
 ## Requirements
 - Anacondaのインストール後, 必要なライブラリをインストールするためのバッチファイルを下記コマンドで実行
