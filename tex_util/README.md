@@ -1,15 +1,16 @@
-# 疑似集合組織生成プログラム
+# Generation of synthetic crystallographic texture
 
 ## Overview
-* tex.py
-    - 集合組織はこのスクリプト内に定義されたTextureクラスによって作成できる.
+- These codes can be used for generating synthetic crystallographic texture containing Cube, Goss, S, Brass, Copper, and Random texture components. 
+- Synthetic texture is produced by using the class named "Texture" in "tex.py". 
+
 ---
 ## Requirement
-* pythonのバージョンなどの指定は特にないです．
-* numpy, Pillowのインストールが必要です.
+* numpy and Pillow are required. 
+
 ---
 ## Example
-* tex_util.tex.Texture クラス
+* Example of the class: tex_util.tex.Texture
 ```python
 from tex_util.tex import Texture  # import
 from matplotlib import pyplot as plt
