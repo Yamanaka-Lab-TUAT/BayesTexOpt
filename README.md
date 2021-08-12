@@ -6,7 +6,7 @@ tensorflowとkerasで実装されたアルミニウム合金板材のr値を推�
 最適化結果を可視化するプログラムも掲載する. 
 
 ## Publications
-1. R. Kamijyo, A. Yamanaka, and A. Ishii, Bayesian Texture Optimization using deep neural network-based numerical material test, submitted. 
+1. R. Kamijyo, A. Ishii, and A. Yamanaka, Bayesian Texture Optimization using deep neural network-based numerical material test, submitted. 
 
 2. A. Yamanaka, R. Kamijyo, K. Koenuma, I. Watanabe and T. Kuwabara, "Deep neural network approach to estimate biaxial stress-strain curves of sheet metals", Materials & Design, Vol. 195 (2020), 108970. <a href="https://doi.org/10.1016/j.matdes.2020.108970">https://doi.org/10.1016/j.matdes.2020.108970</a>
 
