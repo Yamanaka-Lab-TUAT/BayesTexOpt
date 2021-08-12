@@ -37,12 +37,12 @@ conda activate tf_env
 python dataset.py
 ```
 
-4. Run "train_tfmodel.py" to train the DNN-3D using the training dataset. The trained DNN is saved in the directroy "tf_models/dnn3d/model.py". 
+5. Run "train_tfmodel.py" to train the DNN-3D using the training dataset. The trained DNN is saved in the directroy "tf_models/dnn3d/model.py". 
 ```bat
 python train_tfmodel.py
 ```
 
-5. You can estimate Lankford values by executing "draw_rvalue.py". 
+6. You can estimate Lankford values by executing "draw_rvalue.py". 
 
 ### Texture optimization using the trained DNN-3D
 1. Run "Bayesian Texture Optimization" by executing "optimize_rvalue_BO.py". The results are saved to the file named "Opt_result/ev_all.dat". 
