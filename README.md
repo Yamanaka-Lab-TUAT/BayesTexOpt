@@ -48,7 +48,7 @@ python train_tfmodel.py
 ### Texture optimization using the trained DNN-3D
 1. Perform "Bayesian Texture Optimization" by running "optimize_rvalue_BO.py". The optimization results are saved to the file named "Opt_result/ev_all.dat". 
 2. The parameters of Kernel function used in the Gaussian process regression (GPR) are saved in the file named "Opt_result/model.dat". 
-3. The optimization results (i.e., 3D distribution of predictive mean, standard deviation, and acquisition function) can be visualize by running "BO_result_visualizer.py" and open your web browser. You can use an example result of Bayesian texture optimization, which is "???".
+3. The optimization results (i.e., 3D distribution of predictive mean, standard deviation, and acquisition function) can be visualize by running "BayesTexOpt_visualizer.py" with an example data "example_data/ev_all_3d.dat". You can use an example result of Bayesian texture optimization.
 
 ## License
 BSD License (3-clause BSD License)
