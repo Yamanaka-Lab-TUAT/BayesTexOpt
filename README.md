@@ -6,7 +6,7 @@
 - Using the DNN-3D, one can perform optimization of crystallographic texture in an aluminum alloy sheet to reduce in-plane anisotropy of Lankford value. 
 - The DNN-3D is constructed on TensorFlow and Keras. 
 - This repository also provides 3D-viewer to flexibly visualize the optization result. 
-- This project is related to the Deep Neural Network-based Numerical Material Test (DNN-NMT) project (click <a href="https://github.com/Yamanaka-Lab-TUAT/DNN-NMT">here</a>). 
+- This project is related to <a href="https://github.com/Yamanaka-Lab-TUAT/DNN-NMT">Deep Neural Network-based Numerical Material Test (DNN-NMT)</a> project. 
 - The detailed methodology can be found in the following publications. 
 
 ## Publications 
