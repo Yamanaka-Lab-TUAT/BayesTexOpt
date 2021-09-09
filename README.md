@@ -50,6 +50,8 @@ python train_tfmodel.py
 2. The parameters of Kernel function used in the Gaussian process regression (GPR) are saved in the file named "Opt_result/model.dat". 
 3. The optimization results (i.e., 3D distribution of predictive mean, standard deviation, and acquisition function) can be visualize by running "BayesTexOpt_visualizer.py" with an example data "example_data/ev_all_3d.dat". You can use an example result of Bayesian texture optimization.
 
+<img src="./example_data/mean_function.png">
+
 ## License
 BSD License (3-clause BSD License)
 
