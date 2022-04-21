@@ -10,7 +10,7 @@
 - The detailed methodology can be found in the following publications. 
 
 ## Publications 
-1. R. Kamijyo, A. Ishii, and A. Yamanaka, Bayesian Texture Optimization using deep neural network-based numerical material test, International Journal of Mechanical Sciences, (2022), in press. <a href="https://doi.org/10.1016/j.ijmecsci.2022.107285">https://doi.org/10.1016/j.ijmecsci.2022.107285</a>
+1. R. Kamijyo, A. Ishii, and A. Yamanaka, Bayesian Texture Optimization using deep neural network-based numerical material test, International Journal of Mechanical Sciences, Vol. 223 (2022), 107285. <a href="https://doi.org/10.1016/j.ijmecsci.2022.107285">https://doi.org/10.1016/j.ijmecsci.2022.107285</a>
 
 2. A. Yamanaka, R. Kamijyo, K. Koenuma, I. Watanabe and T. Kuwabara, "Deep neural network approach to estimate biaxial stress-strain curves of sheet metals", Materials & Design, Vol. 195 (2020), 108970. <a href="https://doi.org/10.1016/j.matdes.2020.108970">https://doi.org/10.1016/j.matdes.2020.108970</a>
 
